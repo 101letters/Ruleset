@@ -1,0 +1,10 @@
+# 规则名称: Airport
+
+payload:
+  - DOMAIN,fan.com.de
+  - DOMAIN,api.911tg3rs.com
+  - DOMAIN-SUFFIX,2ecde35d-10dc-4e67-a9bc-0bf4a0c859f2.com
+  - DOMAIN,links.azurefd.net
+  - DOMAIN,103.186.108.76
+  - DOMAIN,onlysub.mjurl.com
+  - DOMAIN-SUFFIX,checkhere.top
