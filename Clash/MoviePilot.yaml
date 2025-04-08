@@ -1,0 +1,8 @@
+# 规则名称: MoviePilot
+# 规则统计: 5
+
+DOMAIN,api.themoviedb.org
+DOMAIN,api.tmdb.org
+DOMAIN,www.themoviedb.org
+DOMAIN,api.thetvdb.com
+DOMAIN,webservice.fanart.tv
